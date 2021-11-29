@@ -1,0 +1,31 @@
+{
+  "name": "zero-to-infinity_api",
+  "version": "1.0.0",
+  "description": "a simple node.js/express api for zerotoinfinity projects\" ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinVerona/zero-to-infinity_api.git"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "express",
+    "art",
+    "opalka"
+  ],
+  "author": "Robin Verona",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobinVerona/zero-to-infinity_api/issues"
+  },
+  "homepage": "https://github.com/RobinVerona/zero-to-infinity_api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
